@@ -1,0 +1,63 @@
+.container-info {
+  text-align: left;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #939393;
+}
+
+.container-info h1 {
+  width: 132px;
+  height: 40px;
+  margin: 64px 868px 0 440px;
+  font-family: Manrope;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292929;
+}
+
+.first-name {
+  width: 560px;
+  height: 56px;
+  margin: 56px 440px 32px;
+  padding: 16px 0 0;
+  background-color: var(--white);
+  border-bottom: 1px solid #e0e0e0;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #939393;
+}
+
+.last-name {
+  width: 560px;
+  height: 56px;
+  margin: 32px 440px 0;
+  padding: 16px 0 0;
+  background-color: var(--white);
+  border-bottom: 1px solid #e0e0e0;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #939393;
+}
